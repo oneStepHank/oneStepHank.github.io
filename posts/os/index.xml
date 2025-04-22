@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>운영체제(OS) on My Study Blog</title><link>https://oneStepHank.github.io/posts/os/</link><description>Recent content in 운영체제(OS) on My Study Blog</description><generator>Hugo -- 0.145.0</generator><language>ko</language><lastBuildDate/><atom:link href="https://oneStepHank.github.io/posts/os/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>운영체제(OS) on My Study Blog</title><link>https://oneStepHank.github.io/posts/os/</link><description>Recent content in 운영체제(OS) on My Study Blog</description><generator>Hugo -- 0.145.0</generator><language>ko</language><lastBuildDate>Mon, 31 Mar 2025 21:02:28 +0900</lastBuildDate><atom:link href="https://oneStepHank.github.io/posts/os/index.xml" rel="self" type="application/rss+xml"/><item><title>OS : Introduction</title><link>https://oneStepHank.github.io/posts/os/introduction/</link><pubDate>Mon, 31 Mar 2025 21:02:28 +0900</pubDate><guid>https://oneStepHank.github.io/posts/os/introduction/</guid><description>&lt;h3 id="what-happens-when-a-program-runs">What Happens When a program runs&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>현재 우리의 컴퓨터 구조는 &lt;em>von neuman architecture&lt;/em> 를 기반으로&lt;/p>
+&lt;p>&lt;strong>Von Neuman Architecture?&lt;/strong>
+Program and Data are stored in memory.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="core-components-of-operating-system">Core components of Operating System&lt;/h3>
+&lt;ul>
+&lt;li>Process management&lt;/li>
+&lt;/ul></description></item></channel></rss>
